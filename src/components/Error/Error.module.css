@@ -1,0 +1,8 @@
+.ErrorText {
+    background-color: black;
+    border-radius: 1rem;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-size: 24pt;
+}
